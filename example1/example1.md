@@ -2,9 +2,10 @@
 ## Offer example 1
 [Dummy data generator](https://github.com/zhenik-poc/minio-gen-passtry)  
 
-Each 5 seconds "Authentication system" send `.csv` to `default` bucket, files with payload like.  
+Each 5 seconds `Dummy data generator application` produce `.csv` file with some data to minio bucket (bucket name: `default`). 
+File name is random UUID with `.csv` format.   
 
-File name `UUID.csv`
+Data inside file looks like:  
 ```
 id,timestamp,value
 666c4dae-2098-4713-8113-016c8ce34cc9,1588064319,8sDr
