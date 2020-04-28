@@ -5,7 +5,7 @@
 ## What you can do with platform
 1. Upload/Download files via User Interface
 2. Upload/Download files via API
-3. Query using SQL (Schema dependent)
+3. Query using SQL (Schema dependent - DVML2 api), supported files: csv, xml, json, ...
 4. Data processing in near-real-time/batch (reports, alerting, monitoring, ML, ...)
 5. Give access to 3rd party (export/import data)
 ## Diagram
