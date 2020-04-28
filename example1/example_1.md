@@ -17,10 +17,10 @@ e8c96669-9987-44d0-9e39-b8d7880bfe6f,1588064319,CSvSQQhs0uV
 ```
 
 Minio screenshot
-![img](./example1/example_1_minio.png)
+![img](./example_1_minio.png)
 
 Diagram
-![img](./example1/diagram_1.png)
+![img](./diagram_1.png)
 ### Idea example 1
 Show the power `presto` queries.
 How to expand:
