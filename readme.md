@@ -1,5 +1,7 @@
 # Readme
-* [Offer example 1](./example1/example_1.md)
+* [Offer example 1](example1/example1.md)
+* [Offer example 2](./example2/example2.md)
+* [Offer example 3](./example3/example3.md)
 ## What you can do with platform
 1. Upload/Download files via User Interface
 2. Upload/Download files via API
